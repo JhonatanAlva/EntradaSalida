@@ -1,0 +1,16 @@
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\C# ejerccio 3.exe
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\C# ejerccio 3.deps.json
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\C# ejerccio 3.runtimeconfig.json
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\C# ejerccio 3.runtimeconfig.dev.json
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\C# ejerccio 3.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\ref\C# ejerccio 3.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\bin\Debug\net5.0\C# ejerccio 3.pdb
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.csproj.AssemblyReference.cache
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.AssemblyInfoInputs.cache
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.AssemblyInfo.cs
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.csproj.CoreCompileInputs.cache
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\ref\C# ejerccio 3.dll
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.pdb
+E:\Universidad\Tercer Semestre\Programación 1\C# ejerccio 3\obj\Debug\net5.0\C# ejerccio 3.genruntimeconfig.cache
